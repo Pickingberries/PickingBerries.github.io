@@ -56,3 +56,10 @@ h2 {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif
 }
 
+.contact {
+    padding: 10px;
+}
+
+.contact-info {
+    padding-left: 10px;
+}
